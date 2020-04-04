@@ -4,7 +4,7 @@ Es un programa para aficionados a la NBA, cuenta con una base de datos de todos 
 ## Integrantes del equipo
 
 Aadnan Talib, adnantalib3; 
-Diego Medina
+Diego Medina, Diego105
 
 ## Objetivos del trabajo
 
